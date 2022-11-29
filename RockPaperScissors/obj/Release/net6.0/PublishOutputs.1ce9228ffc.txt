@@ -1,0 +1,5 @@
+/Users/adil/Documents/C#/Rock-Paper-Scissors/RockPaperScissors/bin/Release/net6.0/RockPaperScissors
+/Users/adil/Documents/C#/Rock-Paper-Scissors/RockPaperScissors/bin/Release/net6.0/RockPaperScissors.dll
+/Users/adil/Documents/C#/Rock-Paper-Scissors/RockPaperScissors/bin/Release/net6.0/RockPaperScissors.deps.json
+/Users/adil/Documents/C#/Rock-Paper-Scissors/RockPaperScissors/bin/Release/net6.0/RockPaperScissors.runtimeconfig.json
+/Users/adil/Documents/C#/Rock-Paper-Scissors/RockPaperScissors/bin/Release/net6.0/RockPaperScissors.pdb
